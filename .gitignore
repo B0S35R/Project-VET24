@@ -1,0 +1,14 @@
+# system
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+
+# local secrets / config
+.env
+config.local.js
+
+# logs
+*.log
