@@ -11,7 +11,7 @@ The application visualizes location-based data (GPS coordinates) on an interacti
 
 ---
 
-## 🗺️ Web Map Concept (System Understanding)
+## Web Map Concept (System Understanding)
 
 This project follows a typical **Web Map Architecture**:
 
@@ -35,7 +35,7 @@ This project follows a typical **Web Map Architecture**:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - HTML, CSS, JavaScript  
 - Bootstrap  
@@ -45,7 +45,7 @@ This project follows a typical **Web Map Architecture**:
 
 ---
 
-## 👨‍💻 My Role – Frontend Developer
+## My Role – Frontend Developer
 
 - Developed the **user interface and layout** of the website  
 - Implemented **Leaflet map and marker visualization**  
@@ -58,7 +58,7 @@ This project follows a typical **Web Map Architecture**:
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 - 🗺️ Interactive map with real-world coordinates  
 - 📍 Marker-based clinic visualization  
@@ -68,14 +68,14 @@ This project follows a typical **Web Map Architecture**:
 
 ---
 
-## 📍 Project Scope
+## Project Scope
 
 - Location: Nakhon Ratchasima (Thailand)  
 - Focus: 24-hour veterinary clinics  
 
 ---
 
-## 💡 What This Project Demonstrates
+## What This Project Demonstrates
 
 - Integration of **GIS concepts into web applications**  
 - Understanding of **Web Map architecture (Client–Map–Data)**  
